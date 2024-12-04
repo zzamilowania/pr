@@ -1340,6 +1340,11 @@ a {
   display: flex;
   padding-top: 7rem;
   padding-bottom: 0rem;
+  background-image: url("../../../assets/images/social-media-3758364-1920-1920x819.jpg");
+}
+.cid-uuzOchjBNR .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-uuzOchjBNR {
@@ -1381,7 +1386,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uuzOchjBNR .mbr-section-title,
 .cid-uuzOchjBNR .mbr-section-subtitle {
