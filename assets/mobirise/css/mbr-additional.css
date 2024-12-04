@@ -32,11 +32,11 @@ body {
 }
 .display-2 {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2.2rem;
+  font-size: 1.6rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.75rem;
+  font-size: 2rem;
 }
 .display-4 {
   font-family: 'Inter Tight', sans-serif;
@@ -79,9 +79,9 @@ body {
     line-height: calc( 1.1 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.12rem;
@@ -106,9 +106,9 @@ body {
     line-height: calc( 1.1 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (1.42rem + (2.2 - 1.42) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (1.21rem + (1.6 - 1.21) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
     font-size: 1.12rem;
@@ -1397,10 +1397,10 @@ a {
   text-align: center;
 }
 .cid-uuzOchjBNR .mbr-section-title {
-  color: #7FB069;
+  color: #ffffff;
 }
 .cid-uuzOchjBNR .mbr-section-subtitle {
-  color: #7FB069;
+  color: #ffffff;
 }
 .cid-uuA0BaPCH6 {
   padding-top: 3rem;
